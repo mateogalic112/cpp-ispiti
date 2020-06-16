@@ -1,0 +1,12 @@
+Njemacka A 3 2 1 0 6 9:3
+Izrael D 3 0 3 0 0 1:12
+Andora B 3 3 0 0 9 12:1
+Francuska B 3 0 1 2 2 3:3
+Belgija B 3 0 2 1 1 1:4
+Norveska C 3 2 1 0 6 9:3
+Nizozemska C 3 1 1 1 4 6:3
+Danska C 3 0 3 0 0 1:12
+Srbija D 3 3 0 0 9 16:0
+Finska D 3 2 1 0 6 9:3
+Argentina A 3 0 3 0 0 1:12
+Hrvatska A 3 3 0 0 9 16:0

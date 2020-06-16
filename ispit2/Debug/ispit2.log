@@ -1,0 +1,4 @@
+﻿  ispit2.cpp
+C:\Users\Mateo\Desktop\OOP - Rješenja Ispita\ispit2\Repka.h(40,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mateo\Desktop\OOP - Rješenja Ispita\ispit2\ispit2.cpp(49,23): warning C4018: '<': signed/unsigned mismatch
+  ispit2.vcxproj -> C:\Users\Mateo\Desktop\OOP - Rješenja Ispita\ispit2\Debug\ispit2.exe

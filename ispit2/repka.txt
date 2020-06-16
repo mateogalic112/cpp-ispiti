@@ -1,0 +1,4 @@
+Brazil A 4 3 1 0 10:1 10
+Argentina B 4 2 2 0 6:2 8
+Hrvatska C 4 4 0 0 20:4 12
+Kosovo C 4 0 0 4 0:36 0

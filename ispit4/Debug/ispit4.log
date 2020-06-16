@@ -1,0 +1,3 @@
+﻿  ispit4.cpp
+C:\Users\Mateo\Desktop\OOP - Rješenja Ispita\ispit4\ispit4.cpp(27,1): error C2063: 'copy': not a function
+C:\Users\Mateo\Desktop\OOP - Rješenja Ispita\ispit4\ispit4.cpp(76): message : see reference to class template instantiation 'array<double,4>' being compiled
